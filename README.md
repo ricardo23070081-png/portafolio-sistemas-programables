@@ -58,7 +58,7 @@ Evaluación inicial del curso para determinar el nivel de conocimientos previos 
 > *Al principio tuve confusión para diferenciar algunas configuraciones mecánicas similares, como los robots SCARA y los poliarticulados. Lo solucioné analizando a detalle el tipo de articulaciones (prismáticas o rotacionales) que compone a cada uno. Para futuras investigaciones, me gustaría incorporar esquemas visuales o diagramas del área de trabajo (workspace) de cada robot para complementar mejor la información teórica..*
 
 ---
-### 📝 Tarea 1: Laboratorio de robótica 1
+### 📝 Tarea 2: Laboratorio de robótica 1
 - **Fecha de entrega:** 07/09/2026
 - **Descripción:** En esta práctica realizada en la plataforma GearsBot, se desarrolló un programa en Python para controlar un robot simulado. Se programaron desplazamientos por tiempo para avanzar y retroceder, trayectorias en arco, giros sobre su propio eje en sentido horario o antihorario, además de incluir comentarios en las funciones e imprimir los estados del robot en consola personalizados con mi nombre y emojis.
 #### 📸 Evidencias / Capturas
@@ -81,7 +81,7 @@ https://drive.google.com/file/d/1XGuu6Xme0vdwGMeqlF9ISBNdUpE7xWue/view?usp=shari
 > *Al inicio tuve problemas para lograr que el giro en arco saliera fluido porque la diferencia de velocidad entre los dos motores era muy alta y el robot terminaba girando sobre su propio eje. Lo solucioné ajustando los valores de potencia hasta conseguir la curva deseada. Para la próxima práctica me gustaría probar el uso de sensores de giro para hacer las vueltas de forma más exacta sin depender únicamente del tiempo.*
 
 ---
-### 📝 Tarea 2: Laboratorio de robótica 2
+### 📝 Tarea 3: Laboratorio de robótica 2
 - **Fecha de entrega:** 14/09/2026
 - **Descripción:** En esta práctica de laboratorio se desarrollaron funciones en Python para controlar el movimiento de un robot (avanzar, retroceder, girar a la derecha, girar a la izquierda y detenerse). Además, se integró el sensor de ultrasonido para medir distancias y esquivar objetos, configurando el mapa con obstáculos mediante un archivo JSON y mostrando en consola los estados del robot en tiempo real.
 #### 📸 Evidencias / Capturas
