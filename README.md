@@ -25,6 +25,39 @@ información procedente de fuentes diversas
 - Capacidad de trabajo en equipo
 - Habilidad para trabajar en forma autónoma.
 ---
+
+### 📝 Evaluación Diagnóstica
+
+**Descripción:**  
+Evaluación inicial del curso para determinar el nivel de conocimientos previos en conceptos básicos de programación, circuitos y sistemas embebidos antes de abordar la materia.
+
+- **Actividad:** Resolución del formulario en línea y transcripción/corrección de los reactivos en libreta como evidencia.
+- **Estatus de entrega:** Entregado en Google Classroom.
+- **Evidencia:**
+
+| Formulario / Entrega |
+| :---: |
+| ![Prueba Diagnóstica](imagenes/diagnostico.png) |
+
+---
+### 📝 Tarea 1: Investigacion tipos de robots
+- **Fecha de entrega:** 02/09/2026
+- **Descripción:** Investigación teórica sobre las distintas clasificaciones de robots, analizando su configuración, morfología y grados de libertad. La actividad incluyó la elaboración de una tabla comparativa para diferenciar arquitecturas industriales, móviles y de servicio, entregada en formato PDF.
+#### 📸 Evidencias / Capturas
+![Captura de pantalla de la Tarea 2](imagenes/inve1_1.png)
+![Captura de pantalla de la Tarea 2](imagenes/inve1_2.png)
+![Captura de pantalla de la Tarea 2](imagenes/inve1_3.png)
+![Captura de pantalla de la Tarea 2](imagenes/inve1_4.png)
+![Captura de pantalla de la Tarea 2](imagenes/inve1_5.png)
+#### 💡 Reflexión sobre aprendizajes obtenidos
+> **¿Qué aprendizajes obtuve de la actividad?**
+> *En esta investigación aprendí a clasificar los diferentes tipos de robots según su morfología, estructura mecánica y grados de libertad. Identifiqué las diferencias clave entre las distintas configuraciones cinemáticas (cartesianas, SCARA, articuladas) y comprendí cómo seleccionar la arquitectura adecuada en función de la tarea que se desea automatizar.*
+
+#### 🛠️ Análisis de errores y propuesta de mejora
+> **¿Qué errores cometí y cómo puedo mejorar aún más la actividad?**  
+> *Al principio tuve confusión para diferenciar algunas configuraciones mecánicas similares, como los robots SCARA y los poliarticulados. Lo solucioné analizando a detalle el tipo de articulaciones (prismáticas o rotacionales) que compone a cada uno. Para futuras investigaciones, me gustaría incorporar esquemas visuales o diagramas del área de trabajo (workspace) de cada robot para complementar mejor la información teórica..*
+
+---
 ### 📝 Tarea 1: Laboratorio de robótica 1
 - **Fecha de entrega:** 07/09/2026
 - **Descripción:** En esta práctica realizada en la plataforma GearsBot, se desarrolló un programa en Python para controlar un robot simulado. Se programaron desplazamientos por tiempo para avanzar y retroceder, trayectorias en arco, giros sobre su propio eje en sentido horario o antihorario, además de incluir comentarios en las funciones e imprimir los estados del robot en consola personalizados con mi nombre y emojis.
