@@ -201,6 +201,7 @@ práctica
 ![Captura de pantalla de la Tarea 2](imagenes/eval_1.png)
 ![Captura de pantalla de la Tarea 2](imagenes/eval_2.png)
 ![Captura de pantalla de la Tarea 2](imagenes/eval_3.png)
+![Captura de pantalla de la Tarea 2](imagenes/eval_4.png)
 #### 💡 Reflexión sobre aprendizajes obtenidos
 > **¿Qué aprendizajes obtuve de la actividad?**  
 > *En esta actividad aprendí a implementar algoritmos de control de navegación para que el vehículo siga un circuito determinado y esquive al menos 4 obstáculos con precisión. Asimismo, adquirí experiencia en la gestión de tracción y torque del robot para afrontar pendientes al subir y bajar la rampa con estabilidad, controlando el retorno seguro al punto de origen y documentando adecuadamente las pruebas en un reporte técnico.*
